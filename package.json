@@ -1,0 +1,21 @@
+{
+  "name": "wikipedia-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.11",
+    "@typescript-eslint/eslint-plugin": "6.4.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-promise": "6.0.0",
+    "typescript": "5.3.3",
+    "eslint": "8.57.0",
+    "husky": "8.0.3"
+  }
+}
