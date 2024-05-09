@@ -9,3 +9,5 @@ results/playwright-report/
 results/playwright-report/index.html
 /blob-report/
 /playwright/.cache/
+
+helpers/users.json
