@@ -31,7 +31,7 @@ wikipedia-test-project
 ```
 
 ## Dependencies
-* NPM (v8+) and Node.js (v18+) are installed on your machine
+* NPM (v9+) and Node.js (v20+) are installed on your machine
 
 ## Set up locally
 

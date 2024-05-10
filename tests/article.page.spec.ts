@@ -33,6 +33,7 @@ test.describe('On the Article page', () => {
       'Switch to the visual editor', 'Start editing'])
 
     await articlePage.windowContent.clickByName('Start editing')
+    await expect(articlePage.windowContent.element).toBeHidden()
     await expect(articlePage.wikiEditorField.element).toBeEnabled()
   });
 })
